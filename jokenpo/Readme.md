@@ -44,7 +44,7 @@ válida. Vamos apenas gerar um valor válido aleatório entre 1 e 3.
 
 Em C e C++ você pode usar a função **rand()** para gerar um número aleatório.
 
-Crie uma função jogada_pc que gera e retorna um número entre 1 e 3. Dê uma pesquisada na internet pra descobrir como fazer isso na sua linguagem. Teste pra ver se ela funciona mesmo e se a cada vez que seu código é executado, ela gera um valor diferente.
+Crie uma função **jogada_pc()** que gera e retorna um número entre 1 e 3. Dê uma pesquisada na internet pra descobrir como fazer isso na sua linguagem. Teste pra ver se ela funciona mesmo e se a cada vez que seu código é executado, ela gera um valor diferente.
 ```
 funcao jogada_pc
 	carta = gerar valor aleatorio entre 1 e 3
